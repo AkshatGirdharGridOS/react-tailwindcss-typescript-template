@@ -1,12 +1,10 @@
 # vite React TypeScript tailwindcss starter
 
-Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
+Template for vite, React + tailwindcss + TypeScript project preconfigured.
 
 ## About
 
 Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
-
-![Screenshot](assets/screenshot.png)
 
 ### Libraries
 
@@ -23,7 +21,11 @@ Create a new project from this template by clicking the "Use this template" butt
 
 ![](assets/template-usage.png)
 
+```
+npm i -g pnpm
+```
+
 ```bash
-yarn
-yarn dev
+pnpm install
+pnpm run dev
 ```
